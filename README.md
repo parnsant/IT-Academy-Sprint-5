@@ -1,3 +1,4 @@
+# IT Academy - Sprint 5
 # Power BI: Introducció i indicadors
 
 
@@ -12,6 +13,6 @@ Paula Arnas<br>
 Usuari a Discord: parnas1752<br>
 
 🔗 Enllaç al projecte: [Repositori GitHub][(https://github.com/parnsant/IT-Academy-Sprint-5)]
-# IT-academy-Sprint-5
+
 
 
